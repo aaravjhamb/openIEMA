@@ -16,12 +16,12 @@ OpenIEMA is an Open Source, In Ear Monitor Amplifier built as an alternative to 
 
 ## Key Features
 
-- **True balanced input** — Neutrik XLR into an OPA1678 differential line receiver which ensures any long cable runs from the mixer stay noise free
-- **Dual 3.5mm outputs** — supports up to two IEM users off one beltpack, driven by a TI TPA6132A2 DirectPath amp!
-- **Analog soft limiter** — anti parallel LEDs act as soft limiters that clamp excess noise before you hear it!
-- **Fully portable** — Uses a 1S LiPo with USB C charging (MCP73831, 500 mA) and a boost converter to a clean 5 V analog rail, charges while switched off
-- **Zero firmware** — 100% analog signal path built for simplicity
-- **3D-printed enclosure** — Includes a 3D printed enclosure with volume control all in a compact package!
+- **True balanced input** : Neutrik XLR into an OPA1678 differential line receiver which ensures any long cable runs from the mixer stay noise free
+- **Dual 3.5mm outputs** : supports up to two IEM users off one beltpack, driven by a TI TPA6132A2 DirectPath amp!
+- **Analog soft limiter** : anti parallel LEDs act as soft limiters that clamp excess noise before you hear it!
+- **Fully portable** : Uses a 1S LiPo with USB C charging (MCP73831, 500 mA) and a boost converter to a clean 5 V analog rail, charges while switched off
+- **Zero firmware** : 100% analog signal path built for simplicity
+- **3D-printed enclosure** : Includes a 3D printed enclosure with volume control all in a compact package!
 
 ## PCB
 
