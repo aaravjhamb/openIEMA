@@ -1,5 +1,7 @@
 # OpenIEMA
 
+<div align="center">
+
 OpenIEMA is an Open Source, In Ear Monitor Amplifier built as an alternative to the Behringer P2 with dual headphone outputs driven from a mono balanced XLR input, with onboard LiPo power and USB-C charging!!
 
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
@@ -7,6 +9,8 @@ OpenIEMA is an Open Source, In Ear Monitor Amplifier built as an alternative to 
 [![XLR](https://img.shields.io/badge/XLR-Balanced_Audio-222222?style=for-the-badge)](#)
 [![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![JLCPCB](https://img.shields.io/badge/JLCPCB-00A651?style=for-the-badge)](https://jlcpcb.com/)
+
+</div>
 
 ![Hero Render](Renders/openIEMA.png)
 
